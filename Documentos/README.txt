@@ -1,0 +1,1 @@
+En esta carpeta se subirán todos los informes referentes a la clase de Arquitectura de sotfware
